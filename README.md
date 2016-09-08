@@ -23,11 +23,26 @@ Charts
 * [Chart.js](http://www.chartjs.org/): Simple yet flexible JavaScript charting for designers & developers
 * [Highcharts](http://www.highcharts.com/): Highcharts makes it easy for developers to set up interactive charts in their web pages
 
+Video
+---
+* [videojs](http://videojs.com/): HTML5 video player
+
+
+Tooltip
+---
+* [tooltipster](http://iamceege.github.io/tooltipster/): A flexible and extensible jQuery plugin for modern tooltips.
+Simple enough for everyone, powerful enough for everything.
+
 Animations
 ---
 * [Granim.js](https://sarcadass.github.io/granim.js/index.html): Create fluid and interactive gradients animations
 with this small (< 10kB).js library
-* [Velocity.js]('http://velocityjs.org/'):Accelerated JavaScript animation.
+* [Velocity.js](http://velocityjs.org/): Accelerated JavaScript animation.
+
+Full page
+---
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js): Create full screen pages fast and simple
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll): Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 
 Form Validation
 ---
@@ -44,3 +59,6 @@ Form Elements
 
 ### Select
 * [Select2](https://select2.github.io/): JQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+
+### Checkbox & Radio
+* [iCheck](http://icheck.fronteed.com/): Super Customized checkboxes and radio button for jQuery & Zepto
