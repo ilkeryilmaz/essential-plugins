@@ -43,6 +43,7 @@ Full page
 ---
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js): Create full screen pages fast and simple
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll): Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
+* [scrollify](http://projects.lukehaas.me/scrollify/): A jQuery plugin that assists scrolling and smoothly snaps to sections.
 
 Form Validation
 ---
