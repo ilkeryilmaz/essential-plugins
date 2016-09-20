@@ -38,6 +38,7 @@ Animations
 * [Granim.js](https://sarcadass.github.io/granim.js/index.html): Create fluid and interactive gradients animations
 with this small (< 10kB).js library
 * [Velocity.js](http://velocityjs.org/): Accelerated JavaScript animation.
+* [particles.js](https://marcbruederlin.github.io/particles.js/): A lightweight and dependency-free javascript plugin for particle backgrounds. 
 
 Full page
 ---
