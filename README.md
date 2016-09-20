@@ -1,4 +1,4 @@
-# Essential JQuery Plugins
+# Essential Plugins
 
 Sliders
 ---
@@ -39,6 +39,7 @@ Animations
 with this small (< 10kB).js library
 * [Velocity.js](http://velocityjs.org/): Accelerated JavaScript animation.
 * [particles.js](https://marcbruederlin.github.io/particles.js/): A lightweight and dependency-free javascript plugin for particle backgrounds. 
+* [in-view](https://github.com/camwiegert/in-view): Get notified when a DOM element enters or exits the viewport. 
 
 Full page
 ---
