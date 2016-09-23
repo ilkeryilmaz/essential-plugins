@@ -53,6 +53,13 @@ Form Validation
 * [Parsley](http://parsleyjs.org/): Validating forms frontend have never been so powerful and easy
 * [Evernote Jquery Form Validation](https://github.com/evernote/jquery-form-validation): A jQuery form validation plugin that makes it easy to add validation to existing forms. Error messages are fully customizable and translated in 22 languages.
 
+
+JS Templating
+---
+* [{{mustaches.js}}](https://github.com/janl/mustache.js): Minimal templating with {{mustaches}} in JavaScript
+* [handlebarsjs](http://handlebarsjs.com/): Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath.
+
+
 Form Elements
 ---
 ### Input
